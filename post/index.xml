@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Transcend IT</title>
-    <link>https://transcenditllc.io/</link>
-    <description>Recent content on Transcend IT</description>
+    <title>Posts on Transcend IT</title>
+    <link>https://transcenditllc.io/post/</link>
+    <description>Recent content in Posts on Transcend IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jan 2024 12:32:58 -0600</lastBuildDate><atom:link href="https://transcenditllc.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Jan 2024 12:32:58 -0600</lastBuildDate><atom:link href="https://transcenditllc.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Services</title>
       <link>https://transcenditllc.io/post/services/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://transcenditllc.io/post/services/</guid>
       <description> Assess Google Workspace organization and 1Password settings Research and propose MDM solution Guidance knowing the right things to do and not do in a mostly MacOS/Cloud Startup environment Keep system software + key application software up to date Order IT hardware + peripherals Onboard and Offboard employees and hardware Admin Google Workspace/ Slack / 1Password / MDM Security awareness training for new hires Licensing and cost spreadsheet Compliance reports (MacOS) Storage of IT hardware Third tier support - 2 hrs mo/included Remediate Malware threats Remediate MacOS compliance issues Reporting on MacOS/iOS compliance Integrate third party SaaS into IdP </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://transcenditllc.io/archives/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://transcenditllc.io/archives/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -68,24 +59,6 @@
       
       <guid>https://transcenditllc.io/post/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://transcenditllc.io/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://transcenditllc.io/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://transcenditllc.io/no__index/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://transcenditllc.io/no__index/</guid>
-      <description></description>
     </item>
     
   </channel>
